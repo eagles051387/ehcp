@@ -1,0 +1,2 @@
+1) work on database rewrite based on SQL file already in project
+2) create salt and hash mechanisms
